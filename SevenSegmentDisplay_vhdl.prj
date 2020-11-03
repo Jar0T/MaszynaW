@@ -1,0 +1,7 @@
+vhdl work "E:\Users\Jarek\Xilinx\Projects\MaszynaW\components\SevenSegment\Binary2BCD\Binary2BCD.vhd"
+vhdl work "E:\Users\Jarek\Xilinx\Projects\MaszynaW\components\SevenSegment\BCD2SevenSegment\BCD2SevenSegment.vhd"
+vhdl work "E:\Users\Jarek\Xilinx\Projects\MaszynaW\components\GenericMUX4to1\GenericMUX4to1.vhd"
+vhdl work "E:\Users\Jarek\Xilinx\Projects\MaszynaW\components\GenericCounter\GenericCounter.vhd"
+vhdl work "E:\Users\Jarek\Xilinx\Projects\MaszynaW\components\DMUX1to4\DMUX1to4.vhd"
+vhdl work "E:\Users\Jarek\Xilinx\Projects\MaszynaW\components\ClockDivider\ClockDivider.vhd"
+vhdl work "E:\Users\Jarek\Xilinx\Projects\MaszynaW\components\SevenSegment\SevenSegmentDisplay.vhd"

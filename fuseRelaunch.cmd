@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/Users/Jarek/Xilinx/Projects/MaszynaW/DMUX1to4TestBench_isim_beh.exe" -prj "E:/Users/Jarek/Xilinx/Projects/MaszynaW/DMUX1to4TestBench_beh.prj" "work.DMUX1to4TestBench" 

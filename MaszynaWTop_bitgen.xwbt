@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\Users\Jarek\Xilinx\Projects\MaszynaW\MaszynaWTop.ncd
+OUTFILE=E:\Users\Jarek\Xilinx\Projects\MaszynaW\MaszynaWTop.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=E:\Users\Jarek\Xilinx\Projects\MaszynaW
+LICENSE=WebPack
+USER_INFO=212045578_0_0_116

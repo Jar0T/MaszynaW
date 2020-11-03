@@ -1,0 +1,14 @@
+
+run
+-ifmt VHDL
+-ent MyRAM_exdes 
+-p xc3s50a-tq144-5
+-ifn xst.prj
+-write_timing_constraints No
+-iobuf YES
+-max_fanout 100
+-ofn MyRAM_exdes 
+-ofmt NGC
+-bus_delimiter ()
+-hierarchy_separator /
+-case Maintain
